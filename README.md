@@ -1,6 +1,12 @@
 # BMI
 
-A new Flutter project.
+A new Flutter project for Google Solution Challenge 2022.
+This app calculates a person's Body Mass Index (BMI) and tells whether the person is 
+normal weight, under weight or over weight according to the standards.
+
+Screenshots:
+
+Youtube Video Link for explaining the project: 
 
 ## Getting Started
 
